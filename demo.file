@@ -1,0 +1,18 @@
+# Simple Python Demo Script
+
+# Print a welcome message
+print("Hello! Welcome to the Python demo.")
+
+# Perform basic math operations
+a = 10
+b = 5
+
+print(f"Addition: {a} + {b} = {a + b}")
+print(f"Subtraction: {a} - {b} = {a - b}")
+print(f"Multiplication: {a} * {b} = {a * b}")
+print(f"Division: {a} / {b} = {a / b}")
+
+# Take user input and print it
+name = input("Enter your name: ")
+print(f"Nice to meet you, {name}!")
+
